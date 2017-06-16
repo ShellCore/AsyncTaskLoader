@@ -1,4 +1,4 @@
-# AsyncTask Loader
+# ![alt-text][logo] AsyncTask Loader
 
 Android app
 
@@ -9,3 +9,5 @@ Android app
 ## Fuente
 
 **AsyncTask Loader** es el ejemplo 1 de la _"Lección 3: Carga asíncrona y tareas en segundo plano"_ del curso [Android App Development for Beginners](https://courses.edx.org/courses/course-v1:GalileoX+CAAD002X+1T2017/info) de la plataforma educativa [edX](https://www.edx.org/).
+
+[logo]: https://github.com/ShellCore/AsyncTaskLoader/raw/master/app/src/main/res/mipmap-mdpi/ic_launcher.png "AsyncTask Loader Logo"
